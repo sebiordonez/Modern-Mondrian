@@ -29,6 +29,13 @@ body, html {
 .black {
     background-color: black;
 }
+
+.pink {
+    background-color: pink;
+}
+.purple {
+    background-color: purple;
+}
 .right {
     float: right;
 }
@@ -51,4 +58,34 @@ body, html {
 #divider3 {
     width: 400px;
     height: 10px;
+}
+#bottomrow {
+    height: 100px;
+}
+#bluebox {
+    width: 100px;
+    height: 100px;
+}
+#divider4 {
+    width: 10px;
+    height: 100px;
+}
+.left {
+    float: left;
+}
+#rectangle {
+    height: 100px;
+    width: 235px;
+}
+#divider5 {
+    width: 10px;
+    height: 100px;
+}
+#divider6 {
+    height: 10px;
+    width: 45px;
+}
+#smallbox1 {
+    height: 45px;
+    width: 45px;
 }
